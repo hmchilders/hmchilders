@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Heather, wekcome to my Github :)
+My name is Heather, welcome to my Github :)
 <!--
 **hmchilders/hmchilders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
